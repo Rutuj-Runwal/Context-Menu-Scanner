@@ -23,10 +23,15 @@ Currently the scanner uses virustotal API to identify malware.When you right-cli
 Virustotal API: [API Docs V3.0](https://developers.virustotal.com/v3.0/reference)<br>
 Vt-py Python Library: [Vt-py](https://github.com/VirusTotal/vt-py)<br>
 Generating md5 Checksum: [Get MD5 using Python](https://www.kite.com/python/answers/how-to-generate-an-md5-checksum-of-a-file-in-python)<br>
-Adding a script to Context Menu: [Add to ContextMenu](https://www.youtube.com/watch?v=jS2LuG1p8Vw)
+Adding a script to Context Menu: [Add to ContextMenu](https://www.youtube.com/watch?v=jS2LuG1p8Vw)<br>
+cxFreeze: [Cx Freeze](https://pypi.org/project/cx-Freeze/)
 
 ## Future Development
 - Adding Robust Offline Detection.
 - Using Datasets to Predict never-before-seen Samples: [Kaggle Dataset](https://www.kaggle.com/nsaravana/malware-detection)
 - Adding better offline Analysis techniques: [Techniques](https://storage.googleapis.com/kaggle-forum-message-attachments/1028064/17136/description.pdf)
 - Further building the system using predictions via SKlearn
+
+### How to Use?
+Using the scanner is really simplified as this repo already contain ready to use Setups(created using [Cx Freeze](https://pypi.org/project/cx-Freeze/)) to deploy directly on your windows machines. Just [Click Here](https://github.com/Rutuj-Runwal/Context-Menu-Scanner/tree/main/Ready%20to%20use%20Binaries) and download both the files.Install the installer(Make sure to install it in the default path) then extract the RAR and run the executable present inside it(This executable adds the program to windows context menu).Done!,now right click on any file and you should now be able to see the "WCSM Scan" option there.
+Feel free to start a new issue for this repo in case any problems are encountered.
