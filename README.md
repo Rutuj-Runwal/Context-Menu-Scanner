@@ -20,11 +20,11 @@ Currently the scanner uses virustotal API to identify malware.When you right-cli
 
 
 ### Resources
--Virustotal API: [API Docs V3.0](https://developers.virustotal.com/v3.0/reference)<br>
--Vt-py Python Library: [Vt-py](https://github.com/VirusTotal/vt-py)<br>
--Generating md5 Checksum: [Get MD5 using Python](https://www.kite.com/python/answers/how-to-generate-an-md5-checksum-of-a-file-in-python)<br>
--Adding a script to Context Menu: [Add to ContextMenu](https://www.youtube.com/watch?v=jS2LuG1p8Vw)<br>
--cxFreeze: [Cx Freeze](https://pypi.org/project/cx-Freeze/)
+- Virustotal API: [API Docs V3.0](https://developers.virustotal.com/v3.0/reference)<br>
+- Vt-py Python Library: [Vt-py](https://github.com/VirusTotal/vt-py)<br>
+- Generating md5 Checksum: [Get MD5 using Python](https://www.kite.com/python/answers/how-to-generate-an-md5-checksum-of-a-file-in-python)<br>
+- Adding a script to Context Menu: [Add to ContextMenu](https://www.youtube.com/watch?v=jS2LuG1p8Vw)<br>
+- cxFreeze: [Cx Freeze](https://pypi.org/project/cx-Freeze/)
 
 ## Future Development
 - Adding Robust Offline Detection.
