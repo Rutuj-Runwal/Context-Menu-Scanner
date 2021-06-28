@@ -1,7 +1,8 @@
 # Context-Menu-Scanner
 Windows Context Menu Scanner[WCMS] helps you scan suspicious files for malware with just a right-click.The scanner is integrated right into the Windows Context Menu so you can Scan the file quickly.<br>
 Usage Instructions: [Here](https://github.com/Rutuj-Runwal/Context-Menu-Scanner/blob/main/README.md#how-to-use)
-# Read More: https://dev.to/rutujr/context-menu-malware-scanner-using-python-57j2
+## Read More: https://www.gyaanibuddy.com/blog/creating-a-windows-context-malware-scanner-using-python/
+## Read More: https://dev.to/rutujr/context-menu-malware-scanner-using-python-57j2
 ## How will it be helpful?
 Anti-virus softwares are great but at the same time are complicated to use and they hog a lot of memory.An average user wants something faster and lighter.WCMS is capable of scanning over 500 files types(Be it an executable,a zip file,torrents or even an Image that you downloaded today) without slowing you down.Just right-click and the results appear instantly.
 
